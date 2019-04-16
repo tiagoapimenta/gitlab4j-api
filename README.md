@@ -113,7 +113,7 @@ gitLabApi.enableRequestResponseLogging();
 gitLabApi.enableRequestResponseLogging(java.util.logging.Level.INFO);
 
 // Log using the specified logger and the INFO level
-gitLabApi.enableRequestResponseLogging(youtLoggerInstance, java.util.logging.Level.INFO);
+gitLabApi.enableRequestResponseLogging(yourLoggerInstance, java.util.logging.Level.INFO);
 ```
 
 ---
